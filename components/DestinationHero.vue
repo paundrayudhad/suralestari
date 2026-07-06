@@ -38,7 +38,7 @@
         <!-- Image/Visual -->
         <div class="lg:w-1/2 relative" data-reveal>
           <div class="aspect-[4/5] rounded-2xl overflow-hidden shadow-[0_20px_40px_rgba(20,52,43,0.15)] relative">
-            <NuxtImg src="/laweyan.jpg" alt="Kampung Batik Laweyan" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700" loading="lazy" />
+            <img src="/laweyan.jpg" alt="Kampung Batik Laweyan" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700" loading="lazy" />
             <div class="absolute inset-0 bg-gradient-to-t from-sura-green-900/60 to-transparent"></div>
           </div>
           <div class="absolute -bottom-8 -left-8 w-48 h-48 bg-sura-gold-300/20 rounded-full blur-3xl pointer-events-none"></div>

@@ -65,7 +65,7 @@ onUnmounted(() => {
       <!-- Card 1 -->
       <div class="w-[85vw] md:w-[500px] shrink-0 bg-sura-cream-200 rounded-[2.5rem] overflow-hidden hover:shadow-[0_10px_30px_rgba(20,52,43,0.12)] transition-all duration-300 border border-sura-gold-300/30 group">
         <div class="aspect-[4/3] overflow-hidden relative">
-          <NuxtImg src="/laweyan.jpg" alt="Kampung Batik Kauman" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" loading="lazy" />
+          <img src="/laweyan.jpg" alt="Kampung Batik Kauman" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" loading="lazy" />
           <div class="absolute top-6 left-6 bg-sura-cream-100/90 backdrop-blur px-4 py-1.5 rounded-full text-sm font-semibold text-sura-green-900 border border-sura-gold-300">
             Budaya &amp; Komunitas
           </div>
@@ -79,7 +79,7 @@ onUnmounted(() => {
       <!-- Card 2 -->
       <div class="w-[85vw] md:w-[500px] shrink-0 bg-sura-cream-200 rounded-[2.5rem] overflow-hidden hover:shadow-[0_10px_30px_rgba(20,52,43,0.12)] transition-all duration-300 border border-sura-gold-300/30 group">
         <div class="aspect-[4/3] overflow-hidden relative">
-          <NuxtImg src="/laweyan.jpg" alt="Taman Balekambang" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" loading="lazy" />
+          <img src="/laweyan.jpg" alt="Taman Balekambang" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" loading="lazy" />
           <div class="absolute top-6 left-6 bg-sura-cream-100/90 backdrop-blur px-4 py-1.5 rounded-full text-sm font-semibold text-sura-green-900 border border-sura-gold-300">
             Ekowisata
           </div>
@@ -93,7 +93,7 @@ onUnmounted(() => {
       <!-- Card 3 -->
       <div class="w-[85vw] md:w-[500px] shrink-0 bg-sura-cream-200 rounded-[2.5rem] overflow-hidden hover:shadow-[0_10px_30px_rgba(20,52,43,0.12)] transition-all duration-300 border border-sura-gold-300/30 group">
         <div class="aspect-[4/3] overflow-hidden relative">
-          <NuxtImg src="/laweyan.jpg" alt="Kuliner Solo" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" loading="lazy" />
+          <img src="/laweyan.jpg" alt="Kuliner Solo" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" loading="lazy" />
           <div class="absolute top-6 left-6 bg-sura-cream-100/90 backdrop-blur px-4 py-1.5 rounded-full text-sm font-semibold text-sura-green-900 border border-sura-gold-300">
             Ekonomi Lokal
           </div>

@@ -9,21 +9,21 @@
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-[250px]">
         <div class="rounded-xl overflow-hidden relative group lg:col-span-2 lg:row-span-2 shadow-sm" data-reveal>
-          <NuxtImg src="/laweyan.jpg" alt="Proses membatik" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
+          <img src="/laweyan.jpg" alt="Proses membatik" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
           <div class="absolute inset-0 bg-gradient-to-t from-sura-green-900/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
             <p class="text-sura-cream-100 font-medium">Proses mencanting di salah satu galeri Laweyan.</p>
           </div>
         </div>
 
         <div class="rounded-xl overflow-hidden relative group shadow-sm" data-reveal>
-          <NuxtImg src="/laweyan.jpg" alt="Motif kain batik" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
+          <img src="/laweyan.jpg" alt="Motif kain batik" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
           <div class="absolute inset-0 bg-gradient-to-t from-sura-green-900/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
             <p class="text-sura-cream-100 font-medium text-sm">Motif klasik warisan nenek moyang.</p>
           </div>
         </div>
 
         <div class="rounded-xl overflow-hidden relative group shadow-sm" data-reveal>
-          <NuxtImg src="/laweyan.jpg" alt="Sudut kampung" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
+          <img src="/laweyan.jpg" alt="Sudut kampung" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
           <div class="absolute inset-0 bg-gradient-to-t from-sura-green-900/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
             <p class="text-sura-cream-100 font-medium text-sm">Sudut estetik Kampung Laweyan.</p>
           </div>
